@@ -62,6 +62,8 @@ PredictEase was developed as a project for Vellore Institute of Technology (VIT)
 - Manit Gera
 - Aditya Aryan
 
+## Link of the web app
+https://predictease1.streamlit.app/
 
 
 
